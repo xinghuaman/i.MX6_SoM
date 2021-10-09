@@ -1,0 +1,7 @@
+Record=TopLevelDocument|FileName=EEPROM.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=EEPROM.SchDoc|FileName=Ethernet.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=EEPROM.SchDoc|FileName=MPU.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=EEPROM.SchDoc|FileName=NAND.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=EEPROM.SchDoc|FileName=PMIC.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=EEPROM.SchDoc|FileName=SDRAM.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=EEPROM.SchDoc|FileName=SUPERVISOR.SchDoc|SheetNumber=7
